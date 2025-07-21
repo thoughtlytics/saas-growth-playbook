@@ -1,6 +1,6 @@
 # SaaS Growth Playbook
 
-This is the companion GitHub repository for the [**SaaS Growth Playbook**](https://www.thoughtlytics.com/saas-growth-playbook) — a 200-page resource for early-stage SaaS founders.
+This is the companion GitHub repository for the [**SaaS Growth Playbook**](https://www.thoughtlytics.com/saas-growth-playbook), a 200-page resource for early-stage SaaS founders.
 
 It includes:
 - Proven strategies for acquisition, activation, and retention
