@@ -9,6 +9,10 @@ It includes:
 
 👉 All templates are organized by growth stage below.
 
+<p align="center">
+  <img src="saas-growth-playbook-pdf-by-thoughtlytics-cover-image-v1.webp" alt="SaaS Growth Playbook Cover" width="600">
+</p>
+
 ---
 
 ## 📂 Templates by Growth Stage
