@@ -4,11 +4,14 @@ This folder contains templates to help model, measure, and optimize user retenti
 
 ### Available Templates:
 
-- **SaaS Funnel Simulator (Excel)**  
-  Use this to simulate your full marketing and conversion funnel.  
-  📄 [Download Excel file](./SaaS%20Funnel%20Simulator%20_%20Thoughtlytics.com.xlsx)
+## SaaS Funnel Simulator
 
-- **SaaS Funnel Simulator (Google Sheet)**  
-  Access and copy the original online version.  
-  🔗 [Open in Google Sheets](./SaaS%20Funnel%20Simulator%20(Google%20Sheet).md)
+Use this template to model your SaaS marketing funnel and identify conversion drop-offs and bottlenecks.
+
+📥 **Download Excel Template**  
+[SaaS Funnel Simulator.xlsx](../../templates/retention/SaaS%20Funnel%20Simulator.xlsx)
+
+🌐 **Use on Google Sheets**  
+[Open SaaS Funnel Simulator on Google Sheets](https://docs.google.com/spreadsheets/d/1a7veIU6nEXZ3j6oZUs4ajv_OW9IAWAYcCVg9zEjkg2I/edit?usp=sharing)
+
 
