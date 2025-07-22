@@ -4,7 +4,7 @@ This folder contains templates to help model, measure, and optimize user retenti
 
 ### Available Templates:
 
-## SaaS Funnel Simulator
+**SaaS Funnel Simulator**
 
 Use this template to model your SaaS marketing funnel and identify conversion drop-offs and bottlenecks.
 
